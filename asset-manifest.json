@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scoreCounter/static/css/main.177c8bda.css",
+    "main.js": "/scoreCounter/static/js/main.1d751830.js",
+    "static/js/453.d49497ee.chunk.js": "/scoreCounter/static/js/453.d49497ee.chunk.js",
+    "index.html": "/scoreCounter/index.html",
+    "main.177c8bda.css.map": "/scoreCounter/static/css/main.177c8bda.css.map",
+    "main.1d751830.js.map": "/scoreCounter/static/js/main.1d751830.js.map",
+    "453.d49497ee.chunk.js.map": "/scoreCounter/static/js/453.d49497ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177c8bda.css",
+    "static/js/main.1d751830.js"
+  ]
+}
